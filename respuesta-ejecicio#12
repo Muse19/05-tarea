@@ -1,0 +1,3 @@
+El archivo 'historia.log' no aparece al reconstruir los archivos borrados con el comando: git reset,
+ya que en ningún momento este archivo fue registrado en el historial de cambios mediante un commit, por
+lo que no hay una versión que restaurar y practicamente es como si el archivo nunca hubiera existido.
